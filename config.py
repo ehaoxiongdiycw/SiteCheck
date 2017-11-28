@@ -3,6 +3,7 @@ URLS_FILE = 'input/example_input.txt'
 NORMAL_RESULT_FILE = 'output/NormalResult.csv'
 ABNORMAL_RESULT_FILE = 'output/AbnormalResult.csv'
 TITLE_FILE = 'output/TitleUniqueUrls.txt'
+KEYWORDS_FILE = 'input/keyword.txt'
 
 # [REGEX]
 TITLE_REGEX = '(?<=<title>).*(?=<\/title>)'
